@@ -15,9 +15,9 @@
   "author": "Ruslan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rlypovskyi/goit-js-hw-09/issues"
+    "url": "https://github.com/rlypovskyi/goit-js-hw-10/issues"
   },
-  "homepage": "https://github.com/rlypovskyi/goit-js-hw-09#readme",
+  "homepage": "https://github.com/rlypovskyi/goit-js-hw-10#readme",
   "devDependencies": {
     "gh-pages": "^6.0.0",
     "parcel": "^2.10.0"
